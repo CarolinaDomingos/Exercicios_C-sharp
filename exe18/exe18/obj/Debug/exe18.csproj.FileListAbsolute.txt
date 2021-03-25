@@ -1,0 +1,10 @@
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe18\exe18\bin\Debug\exe18.exe.config
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe18\exe18\bin\Debug\exe18.exe
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe18\exe18\bin\Debug\exe18.pdb
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe18\exe18\obj\Debug\exe18.csprojAssemblyReference.cache
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe18\exe18\obj\Debug\exe18.Form1.resources
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe18\exe18\obj\Debug\exe18.Properties.Resources.resources
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe18\exe18\obj\Debug\exe18.csproj.GenerateResource.cache
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe18\exe18\obj\Debug\exe18.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe18\exe18\obj\Debug\exe18.exe
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe18\exe18\obj\Debug\exe18.pdb

@@ -1,0 +1,34 @@
+<formandos>
+    <formando>
+        <nome>Joao Matias</nome>
+        <morada>Rua A</morada>
+        <email>joaomatias@mail.com</email>
+        <telefone>911 222 333</telefone>
+        <idade>26</idade>
+        <curso>GRSI</curso>
+    </formando>
+    <formando>
+        <nome>Joana Dias</nome>
+        <morada>Rua das Flores</morada>
+        <email>joanadias@mail.com</email>
+        <telefone>922 444 666</telefone>
+        <idade>24</idade>
+        <curso>TPSI</curso>
+    </formando>
+    <formando>
+        <nome>Pedro Faria</nome>
+        <morada>Praceta das Borboletas</morada>
+        <email>pedrofaria@mail.com</email>
+        <telefone>966 777 888</telefone>
+        <idade>30</idade>
+        <curso>Ciber</curso>
+    </formando>
+    <formando>
+        <nome>Eva Pereira</nome>
+        <morada>Bairro da Boa Nova</morada>
+        <email>evapereira@mail.com</email>
+        <telefone>933 888 999</telefone>
+        <idade>21</idade>
+        <curso>Mecânica</curso>
+    </formando>
+</formandos>

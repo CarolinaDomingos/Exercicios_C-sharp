@@ -1,0 +1,10 @@
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe16\exe16\obj\Debug\exe16.csprojAssemblyReference.cache
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe16\exe16\obj\Debug\exe16.Form1.resources
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe16\exe16\obj\Debug\exe16.Properties.Resources.resources
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe16\exe16\obj\Debug\exe16.csproj.GenerateResource.cache
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe16\exe16\obj\Debug\exe16.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe16\exe16\bin\Debug\exe16.exe.config
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe16\exe16\bin\Debug\exe16.exe
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe16\exe16\bin\Debug\exe16.pdb
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe16\exe16\obj\Debug\exe16.exe
+C:\Users\carol\OneDrive\Ambiente de Trabalho\ATEC\c#\módulo 2 - 5413\windows_forms\exercicios\exe16\exe16\obj\Debug\exe16.pdb
